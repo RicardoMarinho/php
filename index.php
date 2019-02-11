@@ -5,6 +5,6 @@
  * @copyright 2019
  */
 
-echo "Hello <strong>World</strong>";
+echo "Hello <strong>World</strong> Este ficheiro está alterado";
 
 ?>
