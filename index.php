@@ -6,5 +6,6 @@
  */
 
 echo "Hello <strong>World</strong> Este ficheiro está alterado";
+echo "Olá Mundo";
 
 ?>
